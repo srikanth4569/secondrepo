@@ -1,5 +1,5 @@
-india(3)
-usa(4)
+india(1)
+usa(2)
 uk
 russia
 germany
